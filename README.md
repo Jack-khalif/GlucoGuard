@@ -55,7 +55,7 @@ Notebook Workflows – trigger insights, alerts, and coaching
 
 ## 📽️ Demo Video
 
-[YouTube Link Placeholder]
+[TR]
 
 ---
 
